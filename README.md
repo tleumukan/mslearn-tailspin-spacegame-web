@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Tileu-Mukan/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/tleumukan.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tileu-Mukan/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
